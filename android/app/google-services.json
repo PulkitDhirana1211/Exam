@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108793336693",
+    "project_id": "exams-41c2d",
+    "storage_bucket": "exams-41c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108793336693:android:6bad393d96d277e542393c",
+        "android_client_info": {
+          "package_name": "com.example.exams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108793336693-3uq6pmq67di62vhdms7f4qacu9vf2uau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJEV1pLy5_zyWGYPGqDcKfR1L2fUriGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108793336693-3uq6pmq67di62vhdms7f4qacu9vf2uau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
