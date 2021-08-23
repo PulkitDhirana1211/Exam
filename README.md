@@ -1,4 +1,4 @@
-# exams
+# exams app
 
 A new Flutter project.
 
